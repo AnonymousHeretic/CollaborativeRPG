@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CollaborativeRPG", "CollaborativeRPG.csproj", "{B693E8B8-4CA5-9281-2A4D-0686B0615B6E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B693E8B8-4CA5-9281-2A4D-0686B0615B6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B693E8B8-4CA5-9281-2A4D-0686B0615B6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B693E8B8-4CA5-9281-2A4D-0686B0615B6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B693E8B8-4CA5-9281-2A4D-0686B0615B6E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
